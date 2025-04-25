@@ -201,7 +201,7 @@ OpenAI GPT-4.1 に元の文を与え、どこを評価すべきかを 5 つ選�
 
 同様に自分で上記 5 セクションの和訳をチェックした。以下は各エンジンに対する総合的な評価。
 
-#### DeepL 
+#### [DeepL](./chap5-50-deepl.pdf)
 
 総合判定: 使えない。
 
@@ -212,7 +212,7 @@ OpenAI GPT-4.1 に元の文を与え、どこを評価すべきかを 5 つ選�
 - 2 columns の左半分が右半分をつなげて翻訳できない
 - 訳語が失われているなど、テキストの埋め込みに失敗しているところがあるような印象を受けた
 
-#### Google Translate
+#### [Google Translate](./chap5-50-google-translate.pdf)
 
 総合判定: 使えない。幻覚がある。
 
@@ -232,7 +232,7 @@ PDF2ZH では以下の問題がある:
 - リンク下線ゴミあり
 - 日本語禁則無視
 
-#### Bing via PDF2ZH
+#### [Bing via PDF2ZH](./chap5-50-pdf2zh-bing.pdf)
 
 総合判定: 悪くはないが、コラム左右のつながりが切れてしまう。(これは全てのシステムでの問題)
 
@@ -240,14 +240,14 @@ PDF2ZH では以下の問題がある:
 - 副題を普通の文章に訳してしまっている。
 - 左と右の境目が文章連結できていない。
 
-#### Gemini 1.5 flash via PDF2ZH
+#### [Gemini 1.5 flash via PDF2ZH](./chap5-50-pdf2zh-gemini-1.5-flash.pdf)
 
 総合判定: まあまあ。コラム左右のつながりが切れてしまう。
 
 - 左右コラム間での切れ
 - 左と右の境目が文章連結できていない。
 
-#### Google translate via PDF2ZH
+#### [Google translate via PDF2ZH](./chap5-50-pdf2zh-google-translate.pdf)
 
 総合判定: 使えない
 
@@ -258,19 +258,19 @@ PDF2ZH では以下の問題がある:
 - 文章がこなれていない
 - よくわからない訳文
 
-#### OpenAI GPT-4.1-mini via PDF2ZH
+#### [OpenAI GPT-4.1-mini via PDF2ZH](./chap5-50-pdf2zh-gpt-4.1-mini.pdf)
 
 総合判定: まあまあ。左右コラムでの切れ。
 
 - 副題を文章に訳出してしまう
 - 左と右の境目が文章連結できていない。それ以外はまあよい。
 
-#### OpenAI GPT-4.1-nano via PDF2ZH
+#### [OpenAI GPT-4.1-nano via PDF2ZH](./chap5-50-pdf2zh-gpt-4.1-nano.pdf)
 
 総合判定: GPT-4.1-mini と同じ。
 
 
-#### BabelDoc
+#### [BabelDoc](./chap5-50-babeldoc-gpt-4.1-nano.pdf)
 
 BabelDoc は GPT-4.1-nano を使ってのみ評価した。
 
