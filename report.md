@@ -4,7 +4,6 @@
 
 - [Artificial Intelligence Index Report 2024](https://hai-production.s3.amazonaws.com/files/hai_ai-index-report-2024-smaller2.pdf) を生成AIで翻訳する。
   - 複数の生成AIで性能を比較、質を報告し、良いものを採用する。
-  - 結果を印刷して提出。
 - 手法を確立したら [2025年度版](https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf) も翻訳する。
 
 ## 目についた問題点
